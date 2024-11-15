@@ -36,39 +36,3 @@ pip install pandas
 pip install scikit-learn
 pip install notebook
 pip install matplotlib
-
-----
-
-### 3. Configure o Banco de Dados
-
-O banco de dados utilizado no projeto é o **PostgreSQL**, gerenciado através do **pgAdmin**. Siga os passos abaixo para configurar:
-
-1. Instale o **PostgreSQL** e o **pgAdmin** em seu sistema.
-2. Crie um banco de dados específico para o projeto.
-3. Ajuste as credenciais de acesso no código da aplicação para conectar ao banco criado.
-
----
-
-## Como Executar
-
-1. Certifique-se de que todas as dependências estão instaladas e o banco de dados está configurado corretamente.
-2. Inicie a aplicação executando o arquivo principal com o comando:
-
-   ```bash
-   python app.py
-
----
-Tecnologias Utilizadas
-Python - Linguagem de programação.
-Flask - Framework web.
-PostgreSQL - Banco de dados relacional.
-pgAdmin - Interface para gerenciamento do banco de dados.
-
----
-Tecnologias Utilizadas
-Python - Linguagem de programação.
-Flask - Framework web.
-PostgreSQL - Banco de dados relacional.
-pgAdmin - Interface para gerenciamento do banco de dados.
-
----
